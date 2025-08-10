@@ -1,0 +1,1 @@
+I developed an educational game in Python using the Pygame library, designed to help children learn to recognize sounds made by domestic animals through interactive gameplay with multiple difficulty levels and statistics tracking. I also created detailed documentation for the project.
